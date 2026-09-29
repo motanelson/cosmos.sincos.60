@@ -1,1 +1,1 @@
-video compact
+60 division sin cos
